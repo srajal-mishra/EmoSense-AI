@@ -1,0 +1,6 @@
+# Ignore heavy folders
+node_modules/
+venv/
+__pycache__/
+dist/
+.DS_Store
